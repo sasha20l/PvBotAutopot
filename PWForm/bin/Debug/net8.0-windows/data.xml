@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <MyDataTable1>
+    <Id>4</Id>
+    <typeXpMp>ЖС</typeXpMp>
+    <equalSigns>&lt;</equalSigns>
+    <percent>95</percent>
+    <button>1</button>
+  </MyDataTable1>
+  <MyDataTable1>
+    <Id>5</Id>
+    <typeXpMp>МЭ</typeXpMp>
+    <equalSigns>&lt;</equalSigns>
+    <percent>90</percent>
+    <button>2</button>
+  </MyDataTable1>
+</DocumentElement>

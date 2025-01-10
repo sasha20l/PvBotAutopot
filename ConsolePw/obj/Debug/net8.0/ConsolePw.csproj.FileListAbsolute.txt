@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\bin\Debug\net8.0\ConsolePw.exe
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\bin\Debug\net8.0\ConsolePw.deps.json
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\bin\Debug\net8.0\ConsolePw.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\bin\Debug\net8.0\ConsolePw.dll
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\bin\Debug\net8.0\ConsolePw.pdb
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\ConsolePw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\ConsolePw.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\ConsolePw.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\ConsolePw.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\ConsolePw.dll
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\refint\ConsolePw.dll
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\ConsolePw.pdb
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\ConsolePw.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ConsolePw\ConsolePw\obj\Debug\net8.0\ref\ConsolePw.dll

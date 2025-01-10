@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\ConsolePw\PWForm\bin\Debug\net8.0-windows\PWForm.exe
+C:\Users\Asus\source\repos\ConsolePw\PWForm\bin\Debug\net8.0-windows\PWForm.deps.json
+C:\Users\Asus\source\repos\ConsolePw\PWForm\bin\Debug\net8.0-windows\PWForm.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsolePw\PWForm\bin\Debug\net8.0-windows\PWForm.dll
+C:\Users\Asus\source\repos\ConsolePw\PWForm\bin\Debug\net8.0-windows\PWForm.pdb
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.dll
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\refint\PWForm.dll
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.pdb
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\ref\PWForm.dll
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.Properties.Resources.resources
+C:\Users\Asus\source\repos\ConsolePw\PWForm\obj\Debug\net8.0-windows\PWForm.Form1.resources
